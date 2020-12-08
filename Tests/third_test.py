@@ -15,7 +15,7 @@ def check_33(nums):
         else:
             count += 1
     return False
-
+#Бля заебал
 
 x = 1, 2, 3, 4, 5, 1, 3, 7, 3, 3, 5, 7
 
